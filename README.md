@@ -11,7 +11,7 @@ HerdScale is an Android application that estimates cattle weight using side-prof
 
 ## Tech Stack
 - Kotlin (Android)
-- Machine Learning (Regression)
+- Data Analysis using Excel
 
 ## Motivation
 Traditional livestock weighing is time-consuming and requires physical equipment. This app provides a faster, non-invasive alternative.
